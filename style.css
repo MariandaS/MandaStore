@@ -1,5 +1,5 @@
 img {
-  height: 200px;
+  height: 210px;
   width: auto;
 }
 .logo {
@@ -21,9 +21,9 @@ h1 {
 .navbar a {
   text-decoration: none;
   color: black;
-  font-size: 25px;
+  font-size: 27px;
   font-family: monospace;
 }
 a:hover {
-  color: aquamarine;
+  color: thistle;
 }
