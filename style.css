@@ -24,8 +24,8 @@ h1 {
   font-size: 27px;
   font-family: monospace;
 }
-a:hover {
-  color: thistle;
+a.hover {
+  color: blue;
 }
 .p {
   color: salmon;
